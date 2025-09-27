@@ -7,7 +7,7 @@
         Agent software for mining machine operation and maintenance, management, mine pool node acceleration and user-defined service fees
         <ul>
             <li>
-                <a href="https://github.com/BernieMacMillan/BernieMacMillan" target="_blank">NebulaChain-System</a>
+                <a href="https://github.com/BernieMacMillan/NebulaChainSystem" target="_blank">NebulaChain-System</a>
             </li>
             <li>
                 <a href="https://github.com/BernieMacMillan/NebulaChainSystem/releases"><img src="https://img.shields.io/github/v/tag/BernieMacMillan/NebulaChainSystem?label=version&color" alt="version"></a>
@@ -41,7 +41,7 @@
         </ul>
     </li>
     <li>
-        About
+关于
         <ul>
             <li>
                 <a href="https://t.me/NebulaChainSystem" target="_blank">
@@ -66,7 +66,7 @@
         矿机运维、管理、矿池节点加速、用户自定义服务费用代理软件
         <ul>
             <li>
-                <a href="https://github.com/BernieMacMillan/BernieMacMillan" target="_blank">NebulaChain-System</a>
+                <a href="https://github.com/BernieMacMillan/NebulaChainSystem" target="_blank">NebulaChain-System</a>
             </li>
             <li>
                 <a href="https://github.com/BernieMacMillan/NebulaChainSystem/releases"><img src="https://img.shields.io/github/v/tag/BernieMacMillan/NebulaChainSystem?label=version&color" alt="版本号"></a>
@@ -100,7 +100,7 @@
         </ul>
     </li>
     <li>
-        About
+关于
         <ul>
             <li>
                 <a href="https://t.me/NebulaChainSystem" target="_blank">
