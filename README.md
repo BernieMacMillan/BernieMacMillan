@@ -21,7 +21,7 @@
                 <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a>
             </li>
             <li>
-                <a href="https://github.com/BernieMacMillan/NCS_2" target="_blank">NCS2</a>
+                <a href="https://github.com/BernieMacMillan/NCS/tree/main/NCS_2" target="_blank">NCS2</a>
             </li>
         </ul>
     </li>
@@ -41,7 +41,7 @@
         </ul>
     </li>
     <li>
-关于
+        About
         <ul>
             <li>
                 <a href="https://t.me/NebulaChainSystem" target="_blank">
@@ -80,7 +80,7 @@
                 <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a>
             </li>
             <li>
-                <a href="https://github.com/BernieMacMillan/NCS_2" target="_blank">NCS2</a>
+                <a href="https://github.com/BernieMacMillan/NCS/tree/main/NCS_2" target="_blank">NCS2</a>
             </li>
         </ul>
     </li>
@@ -100,7 +100,7 @@
         </ul>
     </li>
     <li>
-关于
+        About
         <ul>
             <li>
                 <a href="https://t.me/NebulaChainSystem" target="_blank">
