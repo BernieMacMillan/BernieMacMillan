@@ -18,7 +18,9 @@
         Local protocol conversion tool that can compress public network traffic by 1000%–2000%, limit any specified number of public connections, and effectively resist man-in-the-middle attacks.
         <ul>
             <li>
-                <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a>
+                <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a><a href="https://github.com/BernieMacMillan/NCS/releases">
+        <img src="https://img.shields.io/github/v/tag/BernieMacMillan/NCS?label=version&color" alt="version">
+    </a>
             </li>
             <li>
                 <a href="https://github.com/BernieMacMillan/NCS/tree/main/NCS_2" target="_blank">NCS2</a>
@@ -77,7 +79,9 @@
         本地协议转换工具，可将公网流量压缩1000%–2000%，限制任意指定数量的公网连接，有效抵御中间人攻击。
         <ul>
             <li>
-                <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a>
+                <a href="https://github.com/BernieMacMillan/NCS" target="_blank">NCS3</a><a href="https://github.com/BernieMacMillan/NCS/releases">
+        <img src="https://img.shields.io/github/v/tag/BernieMacMillan/NCS?label=version&color" alt="version">
+    </a>
             </li>
             <li>
                 <a href="https://github.com/BernieMacMillan/NCS/tree/main/NCS_2" target="_blank">NCS2</a>
